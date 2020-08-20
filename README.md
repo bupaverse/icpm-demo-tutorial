@@ -1,5 +1,5 @@
 # Extensions to the bupaR ecosystem: An overview
 
-Tutorial: [tutorial.pdf](tutorial.pdf)
+Tutorial: [Download](https://github.com/bupaverse/icpm-demo-tutorial/raw/master/tutorial.pdf)
 
-Screencast: 
+Screencast: [Download](https://github.com/bupaverse/icpm-demo-tutorial/raw/master/screencast.mp4)
